@@ -1,2 +1,2 @@
 # UniversalOutlinedOres
-A Minecraft resource pack that adds outlined ores to the Universal Ores mod (by Hugman).
+A Minecraft resource pack that adds outlined ores to the [Universal Ores mod](https://github.com/DawnTeamMC/UniversalOres).
