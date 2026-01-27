@@ -1,2 +1,7 @@
-# UniversalOutlinedOres
-A Minecraft resource pack that adds outlined ores to the [Universal Ores mod](https://github.com/DawnTeamMC/UniversalOres) by [Dawn Team MC](https://github.com/DawnTeamMC).
+This is a Minecraft resource pack that adds outlines to ores in mods, making them more visible.
+It is trying to be compatible with all mods that add ores.
+It will probably be compatible with OptiFine's connected textures.
+
+# Compatible mods :
+- [Universal Ores](https://modrinth.com/mod/universal_ores)
+- More to come !
