@@ -2,7 +2,7 @@
 name: Add mod compatibility
 about: Suggest an ore mod that could be added
 title: ''
-labels: mod compatibility
+labels: enhancement, mod compatibility
 assignees: ''
 
 ---
