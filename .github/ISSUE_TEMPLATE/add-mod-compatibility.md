@@ -2,12 +2,12 @@
 name: Add mod compatibility
 about: Suggest an ore mod that could be added
 title: ''
-labels: ''
+labels: mod compatibility
 assignees: ''
 
 ---
 
-**Mod name*
+**Mod name**
 Name of the mod.
 
 **Existing resource pack for this mod**
