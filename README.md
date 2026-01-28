@@ -33,4 +33,4 @@ It will probably be compatible with OptiFine's connected textures.
 - [Thermal Foundation](https://modrinth.com/mod/thermal-foundation)
 - [Things](https://modrinth.com/mod/things)
 
-### If the ore mod you want is not listed above, please report it in this [Github](https://github.com/Seltade-MC/UniversalOutlinedOres/issues).
+### If the ore mod you want is not listed above, please report it in [Issues](https://github.com/Seltade-MC/UniversalOutlinedOres/issues).
