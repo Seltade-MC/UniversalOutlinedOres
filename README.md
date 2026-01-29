@@ -1,36 +1,40 @@
 This is a Minecraft resource pack that adds outlines to ores in mods, making them more visible.
 It is trying to be compatible with all mods that add ores (work also with vanilla ores).
 It will probably be compatible with OptiFine's connected textures.
-[Modrinth](https://modrinth.com/resourcepack/universal-outlined-ores)
-# Compatible mods :
-## Supported :
-- [Universal Ores](https://modrinth.com/mod/universal_ores)
-## Work in progress (all of that will be in 2.0):
-- [Ad Astra](https://modrinth.com/mod/ad-astra)
-- [Better End](https://modrinth.com/mod/betterend)
-- [Better Nether](https://modrinth.com/mod/betternether)
-- [Bewitchment](https://modrinth.com/mod/bewitchment)
-- [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone)
-- [Cobblemon](https://modrinth.com/mod/cobblemon)
-- [Create](https://modrinth.com/mod/create) and [Create Fabric](https://modrinth.com/mod/create-fabric)
-- [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
-- [Galosphere](https://modrinth.com/mod/galosphere)
-- [Ice and Fire](https://modrinth.com/mod/ice-and-fire-dragons)
-- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering)
-- [Industrial Revolution](https://modrinth.com/mod/industrial-revolution)
-- [Infinite Abyss](https://modrinth.com/mod/infinite-abyss)
-- [Mekanism](https://modrinth.com/mod/mekanism)
-- [Mekanism: Ad Astra Ores](https://modrinth.com/mod/mekanism-ad-astra-ores)
-- [Modern Industrialization](https://modrinth.com/mod/modern-industrialization)
-- [Mythic Metals](https://modrinth.com/mod/mythicmetals)
-- [Oritech](https://modrinth.com/mod/oritech)
-- [Palladium](https://modrinth.com/mod/threetag-palladium)
-- [Powah!](https://modrinth.com/mod/powah)
-- [Samurai Dynasty](https://modrinth.com/mod/epic-samurais)
-- [Marium's Soulslike Weaponry](https://modrinth.com/mod/mariums-soulslike-weaponry)
-- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) (CurseForge link here)
-- [Tech Reborn](https://modrinth.com/mod/techreborn)
-- [Thermal Foundation](https://modrinth.com/mod/thermal-foundation)
-- [Things](https://modrinth.com/mod/things)
 
-### If the ore mod you want is not listed above, please report it in [Issues](https://github.com/Seltade-MC/UniversalOutlinedOres/issues).
+Links : [Github](https://github.com/Seltade-MC/UniversalOutlinedOres)/[Modrinth](https://modrinth.com/resourcepack/universal-outlined-ores)
+
+# Compatible mods :
+
+| Mod | Links | Available | Work in Progress | Impossible |
+|---|---|---|---|---|
+| Ad Astra | [Github](https://github.com/terrarium-earth/Ad-Astra)/[Modrinth](https://modrinth.com/mod/ad-astra)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ad-astra) | | ✅ | |
+| Better End | [Github](https://github.com/quiqueck/BetterEnd)/[Modrinth](https://modrinth.com/mod/betterend)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend) | | ✅ | |
+| Better Nether | [Github](https://github.com/quiqueck/BetterNether)/[Modrinth](https://modrinth.com/mod/betternether)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether) | | ✅ | |
+| Bewitchment | [Github](https://github.com/MoriyaShiine/bewitchment)/[Modrinth](https://modrinth.com/mod/bewitchment)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bewitchment) | | ✅ | |
+| Oh The Biomes We've Gone | [Github](https://github.com/Potion-Studios/Oh-The-Biomes-Weve-Gone)/[Modrinth](https://modrinth.com/mod/oh-the-biomes-weve-gone)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone) | | ✅ | |
+| Cobblemon | [Gitlab](https://gitlab.com/cable-mc/cobblemon)/[Modrinth](https://modrinth.com/mod/cobblemon)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cobblemon) | | ✅ | |
+| Create | [Github](https://github.com/Creators-of-Create/Create)/[Modrinth](https://modrinth.com/mod/create)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create) | | ✅ | |
+| Create Fabric | [Github](https://github.com/Fabricators-of-Create/Create)/[Modrinth](https://modrinth.com/mod/create-fabric)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-fabric) | | ✅ | |
+| Deeper and Darker | [Github](https://github.com/KyaniteMods/DeeperAndDarker)/[Modrinth](https://modrinth.com/mod/deeperdarker)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/deeperdarker) | | ✅ | |
+| Galosphere | [Github](https://github.com/0rc1nus/Galosphere-Main)/[Modrinth](https://modrinth.com/mod/galosphere)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/galosphere) | | ✅ | |
+| Ice and Fire:Dragons | [Github](https://github.com/AlexModGuy/Ice_and_Fire)/[Modrinth](https://modrinth.com/mod/ice-and-fire-dragons)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) | | ✅ | |
+| Immersive Engineering | [Github](https://github.com/BluSunrize/ImmersiveEngineering)/[Modrinth](https://modrinth.com/mod/immersiveengineering)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) | | ✅ | |
+| Industrial Revolution | [Github](https://github.com/GabrielOlvH/Industrial-Revolution)/[Modrinth](https://modrinth.com/mod/industrial-revolution)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution) | | ✅ | |
+| Infinite Abyss | [Modrinth](https://modrinth.com/mod/infinite-abyss)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/infinite-abyss) | | ✅ | |
+| Mekanism | [Github](https://github.com/mekanism/Mekanism)/[Modrinth](https://modrinth.com/mod/mekanism)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism) | | ✅ | |
+| Mekanism:Ad Astra Ores | [Gitlab](https://gitlab.com/libertymods/mekanism-ad-astra-ores)/[Modrinth](https://modrinth.com/mod/mekanism-ad-astra-ores)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism-ad-astra-ores) | | ✅ | |
+| Modern Industrialization | [Github](https://github.com/AztechMC/Modern-Industrialization)/[Modrinth](https://modrinth.com/mod/modern-industrialization)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | | ✅ | |
+| Mythic Metals | [Github](https://github.com/Noaaan/MythicMetals)/[Modrinth](https://modrinth.com/mod/mythicmetals)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mythicmetals) | | ✅ | |
+| Oritech | [Github](https://github.com/Rearth/Oritech)/[Modrinth](https://modrinth.com/mod/oritech)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech) | | ✅ | |
+| Palladium | [Github](https://github.com/ThreeTAG/Palladium)/[Modrinth](https://modrinth.com/mod/threetag-palladium)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/threetag-palladium) | | ✅ | |
+| Powah! | [Github](https://github.com/Technici4n/Powah)/[Modrinth](https://modrinth.com/mod/powah)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected) | | ✅ | |
+| Samurai Dynasty | [Github](https://github.com/VeroxUniverse/SamuraiDynasty-neoforge)/[Modrinth](https://modrinth.com/mod/epic-samurais)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/samurai-dynasty) | | ✅ | |
+| Marium's Soulslike Weaponry | [Github](https://github.com/mariumbacchus/Soulslike-Weaponry)/[Modrinth](https://modrinth.com/mod/mariums-soulslike-weaponry)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry) | | ✅ | |
+| Tinkers Construct | [Github](https://github.com/SlimeKnights/TinkersConstruct)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) | | ✅ | |
+| Tech Reborn | [Github](https://github.com/TechReborn/TechReborn)/[Modrinth](https://modrinth.com/mod/techreborn)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/techreborn) | | ✅ | |
+| Thermal Foundation | [Modrinth](https://modrinth.com/mod/thermal-foundation)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation) | | ✅ | |
+| Things | [Github](https://github.com/wisp-forest/things)/[Modrinth](https://modrinth.com/mod/things)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/things-fabric) | | ✅ | |
+| Universal Ores | [Github](https://github.com/DawnTeamMC/UniversalOres)/[Modrinth](https://modrinth.com/mod/universal_ores)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric) | ✅ | | |
+
+### If the ore mod you want is not listed above, please report it in this [Github](https://github.com/Seltade-MC/UniversalOutlinedOres/issues).
