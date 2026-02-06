@@ -6,7 +6,7 @@ Links : [Github](https://github.com/Seltade-MC/UniversalOutlinedOres)/[Modrinth]
 
 # Compatible mods :
 
-|Mods|Links|Available=✅ Not Tested=❓ Work in progress=⏳ Impossible=❌|
+|Mods|Links|Status|
 |---|---|---|
 |AdAstra|[Github](https://github.com/terrarium-earth/Ad-Astra)/[Modrinth](https://modrinth.com/mod/ad-astra)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ad-astra)|⏳
 |Aether Addon: Overworld Ores|[Github](https://github.com/The-Aether-Team/Overworld-Ores)/[Modrinth](https://modrinth.com/mod/aether-overworld-ores)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/aether-overworld-ores)|⏳
@@ -44,8 +44,8 @@ Links : [Github](https://github.com/Seltade-MC/UniversalOutlinedOres)/[Modrinth]
 |Thermal Foundation|[Modrinth](https://modrinth.com/mod/thermal-foundation)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)|⏳
 |Things|[Github](https://github.com/wisp-forest/things)/[Modrinth](https://modrinth.com/mod/things)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/things-fabric)|⏳
 |Tinkers Construct|[Github](https://github.com/SlimeKnights/TinkersConstruct)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|⏳
-|Traincraft|[Github]https://github.com/EternalBlueFlame/Traincraft-5)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/traincraft)|⏳
+|Traincraft|[Github](https://github.com/EternalBlueFlame/Traincraft-5)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/traincraft)|⏳
 |Universal Ores|[Github](https://github.com/DawnTeamMC/UniversalOres)/[Modrinth](https://modrinth.com/mod/universal_ores)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric)|✅|
 |Werewolves|[Github](https://github.com/TeamLapen/Werewolves)/[Modrinth](https://modrinth.com/mod/werewolves)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)|⏳
-
+Available=✅ Not Tested=❓ Work in progress=⏳ Impossible=❌
 ### If the ore mod you want is not listed above, please report it in this [Github](https://github.com/Seltade-MC/UniversalOutlinedOres/issues).
