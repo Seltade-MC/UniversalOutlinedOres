@@ -7,7 +7,7 @@ Links : [Github](https://github.com/Seltade-MC/UniversalOutlinedOres)/[Modrinth]
 # Compatible mods :
 
 |Mods|Links|Available=✅ Not Tested=❓ Work in progress=⏳ Impossible=❌|
-|---|---|---|---|---|
+|---|---|---|
 |AdAstra|[Github](https://github.com/terrarium-earth/Ad-Astra)/[Modrinth](https://modrinth.com/mod/ad-astra)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ad-astra)|⏳
 |Aether Addon: Overworld Ores|[Github](https://github.com/The-Aether-Team/Overworld-Ores)/[Modrinth](https://modrinth.com/mod/aether-overworld-ores)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/aether-overworld-ores)|⏳
 |Alex's Caves|[Github](https://github.com/AlexModGuy/AlexsCaves)/[Modrinth](https://modrinth.com/mod/alexs-caves)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)|⏳
