@@ -47,5 +47,7 @@ Links : [Github](https://github.com/Seltade-MC/UniversalOutlinedOres)/[Modrinth]
 |Traincraft|[Github](https://github.com/EternalBlueFlame/Traincraft-5)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/traincraft)|⏳
 |Universal Ores|[Github](https://github.com/DawnTeamMC/UniversalOres)/[Modrinth](https://modrinth.com/mod/universal_ores)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric)|✅|
 |Werewolves|[Github](https://github.com/TeamLapen/Werewolves)/[Modrinth](https://modrinth.com/mod/werewolves)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)|⏳|
+
 Available=✅ Not Tested=❓ Work in progress=⏳ Impossible=❌
+
 ### If the ore mod you want is not listed above, please report it in this [Github](https://github.com/Seltade-MC/UniversalOutlinedOres/issues).
