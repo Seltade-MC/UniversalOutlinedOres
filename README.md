@@ -6,7 +6,7 @@ Links : [Github](https://github.com/Seltade-MC/UniversalOutlinedOres)/[Modrinth]
 
 # Compatible mods :
 
-Available=✅   Not Tested=❓   Work in progress=⏳   Impossible=❌
+Available=✅ Not Tested=❓ Work in progress=⏳ Impossible=❌
 |Mods|Links|Status|
 |---|---|---|
 |AdAstra|[Github](https://github.com/terrarium-earth/Ad-Astra)/[Modrinth](https://modrinth.com/mod/ad-astra)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ad-astra)|⏳
@@ -49,4 +49,4 @@ Available=✅   Not Tested=❓   Work in progress=⏳   Impossible=❌
 |Universal Ores|[Github](https://github.com/DawnTeamMC/UniversalOres)/[Modrinth](https://modrinth.com/mod/universal_ores)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric)|✅|
 |Werewolves|[Github](https://github.com/TeamLapen/Werewolves)/[Modrinth](https://modrinth.com/mod/werewolves)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)|⏳|
 
-### If the ore mod you want is not listed above, please report it in this [Github](https://github.com/Seltade-MC/UniversalOutlinedOres/issues).
+### If the ore mod you want is not listed above, please report it [here](https://github.com/Seltade-MC/UniversalOutlinedOres/issues).
