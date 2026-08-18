@@ -1,9 +1,9 @@
 ---
 name: Question
 about: Ask all your question here
-title: ''
+title: "[QUESTION]"
 labels: question
-assignees: ''
+assignees: Dyxux
 
 ---
 

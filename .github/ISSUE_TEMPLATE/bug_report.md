@@ -1,9 +1,10 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "[BUG]"
 labels: bug
-assignees: ''
+assignees: Dyxux
+type: Bug
 
 ---
 
@@ -16,8 +17,8 @@ The version of Minecraft where you found the bug.
 **Version of Universal Outlined Ores**
 The version of Universal Outlined Ores where you found the bug.
 
-**Impacted mod**
-The mod that was impacted by the bug.
+**Version of Universal Ores**
+The version of Universal Ores where you found the bug.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
